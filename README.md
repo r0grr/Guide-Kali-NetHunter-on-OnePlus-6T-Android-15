@@ -9,9 +9,9 @@ The official Kali NetHunter installer is currently only compatible up to Android
 * **Phone:** OnePlus 6T with unlocked bootloader 
 (Check XDA forums or Google it if you don't know how to do it.)
 * **ROM:** LineageOS 22.2 (Android 15) [LineageOS 22.2](https://download.lineageos.org/devices/fajita/builds) 
-(If they updated the version to a newer one on LineageOS download page you can still get it on Releases page in this repo.)
+(If they updated the version to a newer one on LineageOS download page you can still get it [on my SourceForge](https://sourceforge.net/projects/lineageos-22-2-oneplus-6t/).)
 * **Flash Images:** `boot.img`, `dtbo.img`, and`vbmeta.img`.
-(If they updated the version to a newer one on LineageOS download you can't use those *.img files, don't worry, you can still get it on Releases page in this repo.)
+(If they updated the version to a newer one on LineageOS download you can't use those *.img files, don't worry, you can still get it [on my SourceForge](https://sourceforge.net/projects/lineageos-22-2-oneplus-6t/).)
 * **Kernel:** [Loukious kernel](https://github.com/Loukious/nethunter_kernel_oneplus_sdm845/releases/tag/nethunter-22.2) (Download the **`Image.gz-dtb`**).
 * **NetHunter:** Official AIO Package for OnePlus 6/6T from [Kali.org](https://www.kali.org/get-kali/#kali-mobile). 
 (You'll see that when you download the ZIP file, the name contains "los-twelve" at the end, which is why it won't work for us directly.)
