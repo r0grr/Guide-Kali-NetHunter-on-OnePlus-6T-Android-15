@@ -16,6 +16,7 @@ The official Kali NetHunter installer is currently only compatible up to Android
 * **NetHunter:** Official AIO Package for OnePlus 6/6T from [Kali.org](https://www.kali.org/get-kali/#kali-mobile). 
 (You'll see that when you download the ZIP file, the name contains "los-twelve" at the end, which is why it won't work for us directly.)
 * **Magisk:** Download the latest Magisk version .APK on the official repo [Magisk Latest](https://github.com/topjohnwu/Magisk/releases/latest).
+
 ---
 
 ## 🛠️ Step 1: Flashing the Base (LineageOS 22.2)
@@ -44,8 +45,15 @@ We are going to replace the old kernel inside the installer with the new one fro
    * Reboot to system.
 5. **Done!** You now have the NetHunter Kernel installed.
 
-> **Note:** We perform the installation this way because using the full, unmodified Kali AIO suite that they provide on the website on Android 15 will cause major system incompatibilities and bootloops. Swapping the kernel manually ensures your system remains stable while gaining full NetHunter capabilities.
+> **Note:** We perform the installation this way because using the full, unmodified Kali AIO suite that they provide on the website with all the tools and apps installed on Android 15 will cause bootloops. We will address this on Step 4.
 
+<details>
+  <summary>Magisk Root (Image)</summary>
+![enter image description here](https://raw.githubusercontent.com/r0grr/Guide-Kali-NetHunter-on-OnePlus-6T-Android-15/refs/heads/main/images/Settings.png)
+  
+</details>
+
+---
 
 ## 💉 Step 3: Rooting with Magisk
 
@@ -66,6 +74,12 @@ After flashing the modified kernel and confirm that the phone boots to LineageOS
     * Wait until it's done
     * Reboot
 4. **Done!** You now have root!
+
+<details>
+  <summary>Magisk Root (Image)</summary>
+![enter image description here](https://raw.githubusercontent.com/r0grr/Guide-Kali-NetHunter-on-OnePlus-6T-Android-15/refs/heads/main/images/Magisk.png)
+  
+</details>
 
 ---
 
@@ -88,6 +102,12 @@ Now that your kernel is ready, you need the software interface to manage the Kal
    * Navigate to **"Kali Chroot Manager"**.
    * Click **Install Kali Chroot** > *Download latest Kali Chroot from official image*
    * Click **Ok** and wait untill it's done, don't kill the app and keep the screen on.
-5. If everything went well, click **Start** and check if almost everything turns green and says *Running!* on top. 
+5. If everything went well, click **Start** and check if almost everything turns green and says *Running!* on top.
+
+<details>
+  <summary>Chroot OK (Image)</summary>
+![enter image description here](https://raw.githubusercontent.com/r0grr/Guide-Kali-NetHunter-on-OnePlus-6T-Android-15/refs/heads/main/images/NetHunter_Chroot.png)
+  
+</details>
 
 > **Note**:  Check [Kali Nethunter Documentation](https://www.kali.org/docs/nethunter/) if you have any doubts or troubles.
