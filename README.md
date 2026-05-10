@@ -49,7 +49,8 @@ We are going to replace the old kernel inside the installer with the new one fro
 
 <details>
   <summary>Magisk Root (Image)</summary>
-![enter image description here](https://raw.githubusercontent.com/r0grr/Guide-Kali-NetHunter-on-OnePlus-6T-Android-15/refs/heads/main/images/Settings.png)
+  
+  ![enter image description here](https://raw.githubusercontent.com/r0grr/Guide-Kali-NetHunter-on-OnePlus-6T-Android-15/refs/heads/main/images/Settings.png)
   
 </details>
 
@@ -77,7 +78,8 @@ After flashing the modified kernel and confirm that the phone boots to LineageOS
 
 <details>
   <summary>Magisk Root (Image)</summary>
-![enter image description here](https://raw.githubusercontent.com/r0grr/Guide-Kali-NetHunter-on-OnePlus-6T-Android-15/refs/heads/main/images/Magisk.png)
+  
+  ![enter image description here](https://raw.githubusercontent.com/r0grr/Guide-Kali-NetHunter-on-OnePlus-6T-Android-15/refs/heads/main/images/Magisk.png)
   
 </details>
 
@@ -106,7 +108,8 @@ Now that your kernel is ready, you need the software interface to manage the Kal
 
 <details>
   <summary>Chroot OK (Image)</summary>
-![enter image description here](https://raw.githubusercontent.com/r0grr/Guide-Kali-NetHunter-on-OnePlus-6T-Android-15/refs/heads/main/images/NetHunter_Chroot.png)
+  
+  ![enter image description here](https://raw.githubusercontent.com/r0grr/Guide-Kali-NetHunter-on-OnePlus-6T-Android-15/refs/heads/main/images/NetHunter_Chroot.png)
   
 </details>
 
