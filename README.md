@@ -48,7 +48,7 @@ We are going to replace the old kernel inside the installer with the new one fro
 > **Note:** We perform the installation this way because using the full, unmodified Kali AIO suite that they provide on the website with all the tools and apps installed on Android 15 will cause bootloops. We will address this on Step 4.
 
 <details>
-  <summary>Magisk Root (Image)</summary>
+  <summary>Android Info (Image)</summary>
   
   ![enter image description here](https://raw.githubusercontent.com/r0grr/Guide-Kali-NetHunter-on-OnePlus-6T-Android-15/refs/heads/main/images/Settings.png)
   
